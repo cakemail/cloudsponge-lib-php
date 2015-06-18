@@ -13,7 +13,7 @@ namespace CloudSponge;
 // The simple inteface below defines contacts that identify your application to CloudSponge.com.
 interface iCSConstants {
   // DOMAIN_KEY and DOMAIN_PASSWORD should contain your domain key and domain password for CloudSponge.com access.
- const DOMAIN_KEY = "CHANGEME";
- const DOMAIN_PASSWORD = "CHANGEME";
+ const DOMAIN_KEY = "ZTWQNQHMHNCEKDZGNZN7";
+ const DOMAIN_PASSWORD = "uPhmpFxqwn";
 }
 ?>

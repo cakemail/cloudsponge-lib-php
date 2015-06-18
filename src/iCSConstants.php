@@ -14,6 +14,6 @@ namespace CloudSponge;
 interface iCSConstants {
   // DOMAIN_KEY and DOMAIN_PASSWORD should contain your domain key and domain password for CloudSponge.com access.
  const DOMAIN_KEY = "ZTWQNQHMHNCEKDZGNZN7";
- const DOMAIN_PASSWORD = "uPhmpFxqwn";
+ const DOMAIN_PASSWORD = "n49UUCuPhmpFxqwn";
 }
 ?>

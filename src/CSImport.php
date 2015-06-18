@@ -409,6 +409,6 @@ class CSContact {
   }  
 }
 
-class CSException extends Exception {}
+class CSException extends \Exception {}
 
 ?>

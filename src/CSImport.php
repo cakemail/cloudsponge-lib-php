@@ -1,4 +1,7 @@
 <?php
+namespace CloudSponge;
+
+use CloudSponge\iCSConstants;
 
 // CloudSponge.com PHP Library v0.9 Beta
 // http://www.cloudsponge.com
@@ -8,7 +11,6 @@
 // Written by Graeme Rouse
 // graeme@cloudsponge.com
 
-require_once 'csconstants.php';
 
 /* Import Class */
 class CSImport implements iCSConstants {

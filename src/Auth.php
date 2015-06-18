@@ -1,4 +1,7 @@
 <?php 
+namespace CloudSponge;
+
+use CloudSponge\CSImport;
 
 // CloudSponge.com PHP Library v0.9 Beta
 // http://www.cloudsponge.com
@@ -8,7 +11,6 @@
 // Written by Graeme Rouse
 // graeme@cloudsponge.com
 
-require_once 'csimport.php';
 $response = CSImport::forward_auth($_GET, $_POST);
 if (isset($response['redirect'])) {
   // This is our successful case

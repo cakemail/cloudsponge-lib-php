@@ -1,4 +1,5 @@
 <?php
+namespace CloudSponge;
 
 // CloudSponge.com PHP Library v0.9 Beta
 // http://www.cloudsponge.com

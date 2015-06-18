@@ -1,7 +1,6 @@
 {
     "name": "cloudsponge/cloudsponge-lib-php",
-    "description": "PHP Integration Library and reference pages. Ported from http://code.google.com/p/cloudsponge-lib-php/
-http://www.cloudsponge.com",
+    "description": "PHP Integration Library and reference pages. Ported from http://code.google.com/p/cloudsponge-lib-php/ http://www.cloudsponge.com",
     "autoload": {
         "psr-4": {
             "CloudSponge\\": "src"
